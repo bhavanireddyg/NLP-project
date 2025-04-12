@@ -1,10 +1,6 @@
-reqs = """
 streamlit
 tensorflow
 langdetect
 numpy
 pandas
 scikit-learn
-"""
-with open("requirements.txt", "w") as f:
-    f.write(reqs)
