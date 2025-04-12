@@ -4,3 +4,8 @@ langdetect
 numpy
 pandas
 scikit-learn
+google-api-python-client
+googletrans==4.0.0-rc1
+matplotlib
+seaborn
+wordcloud
